@@ -1,0 +1,272 @@
+ingredient,count,,,,,,
+ripe banana,1,,banana,",",',:,"'ripe banana':'banana',"
+fresh basil,5,,basil,",",',:,"'fresh basil':'basil',"
+black beans,7,,beans,",",',:,"'black beans':'beans',"
+canned kidney beans,3,,beans,",",',:,"'canned kidney beans':'beans',"
+canned pinto beans,1,,beans,",",',:,"'canned pinto beans':'beans',"
+chili beans,1,,beans,",",',:,"'chili beans':'beans',"
+dried black beans,1,,beans,",",',:,"'dried black beans':'beans',"
+refried beans,3,,beans,",",',:,"'refried beans':'beans',"
+95 percent lean ground beef,2,,beef,",",',:,"'95 percent lean ground beef':'beef',"
+beef cubes,1,,beef,",",',:,"'beef cubes':'beef',"
+beef shoulder roast,1,,beef,",",',:,"'beef shoulder roast':'beef',"
+flank steak,1,,beef,",",',:,"'flank steak':'beef',"
+ground chuck,4,,beef,",",',:,"'ground chuck':'beef',"
+round tip steak,1,,beef,",",',:,"'round tip steak':'beef',"
+skirt steak,2,,beef,",",',:,"'skirt steak':'beef',"
+steak,1,,beef,",",',:,"'steak':'beef',"
+green pepper,7,,bell pepper,",",',:,"'green pepper':'bell pepper',"
+orange pepper,2,,bell pepper,",",',:,"'orange pepper':'bell pepper',"
+red pepper,10,,bell pepper,",",',:,"'red pepper':'bell pepper',"
+roasted red peppers,1,,bell pepper,",",',:,"'roasted red peppers':'bell pepper',"
+yellow pepper,2,,bell pepper,",",',:,"'yellow pepper':'bell pepper',"
+canned black beans,20,,beans,",",',:,"'canned black beans':'beans',"
+french bread,1,,bread,",",',:,"'french bread':'bread',"
+beef broth,1,,broth,",",',:,"'beef broth':'broth',"
+chicken broth,2,,broth,",",',:,"'chicken broth':'broth',"
+chicken stock,3,,broth,",",',:,"'chicken stock':'broth',"
+low sodium chicken broth,1,,broth,",",',:,"'low sodium chicken broth':'broth',"
+red cabbage,1,,cabbage,",",',:,"'red cabbage':'cabbage',"
+canned chipotle chile,6,,canned pepper,",",',:,"'canned chipotle chile':'canned pepper',"
+canned green chiles,5,,canned pepper,",",',:,"'canned green chiles':'canned pepper',"
+chipotle chiles,1,,canned pepper,",",',:,"'chipotle chiles':'canned pepper',"
+peppers,1,,fresh peppers,",",',:,"'peppers':'fresh peppers',"
+ground cayenne pepper,7,,cayenne,",",',:,"'ground cayenne pepper':'cayenne',"
+cheddar cheese,1,,cheese,",",',:,"'cheddar cheese':'cheese',"
+colby jack,3,,cheese,",",',:,"'colby jack':'cheese',"
+cotija cheese,1,,cheese,",",',:,"'cotija cheese':'cheese',"
+cream cheese,2,,cheese,",",',:,"'cream cheese':'cheese',"
+extra sharp cheddar cheese,1,,cheese,",",',:,"'extra sharp cheddar cheese':'cheese',"
+feta cheese,1,,cheese,",",',:,"'feta cheese':'cheese',"
+goat cheese,2,,cheese,",",',:,"'goat cheese':'cheese',"
+grilling cheese,1,,cheese,",",',:,"'grilling cheese':'cheese',"
+low fat shredded cheddar,3,,cheese,",",',:,"'low fat shredded cheddar':'cheese',"
+mexican cheese,1,,cheese,",",',:,"'mexican cheese':'cheese',"
+monterey jack cheese,5,,cheese,",",',:,"'monterey jack cheese':'cheese',"
+queso fresco,3,,cheese,",",',:,"'queso fresco':'cheese',"
+sharp cheddar cheese,3,,cheese,",",',:,"'sharp cheddar cheese':'cheese',"
+shredded cheddar cheese,6,,cheese,",",',:,"'shredded cheddar cheese':'cheese',"
+shredded cheese,3,,cheese,",",',:,"'shredded cheese':'cheese',"
+shredded mexican cheese blend,4,,cheese,",",',:,"'shredded mexican cheese blend':'cheese',"
+soy cheese,1,,cheese,",",',:,"'soy cheese':'cheese',"
+boneless skinless chicken breast,8,,chicken,",",',:,"'boneless skinless chicken breast':'chicken',"
+boneless skinless chicken thighs,2,,chicken,",",',:,"'boneless skinless chicken thighs':'chicken',"
+chicken breast,9,,chicken,",",',:,"'chicken breast':'chicken',"
+chicken breast halves,1,,chicken,",",',:,"'chicken breast halves':'chicken',"
+chicken meat,1,,chicken,",",',:,"'chicken meat':'chicken',"
+rotisserie chicken,2,,chicken,",",',:,"'rotisserie chicken':'chicken',"
+shredded chicken,2,,chicken,",",',:,"'shredded chicken':'chicken',"
+whole chicken,2,,chicken,",",',:,"'whole chicken':'chicken',"
+condensed cream of chicken soup,2,,chicken soup,",",',:,"'condensed cream of chicken soup':'chicken soup',"
+ancho chili powder,2,,chili powder,",",',:,"'ancho chili powder':'chili powder',"
+chili pepper,4,,chili powder,",",',:,"'chili pepper':'chili powder',"
+chili powder,24,,chili powder,",",',:,"'chili powder':'chili powder',"
+chili seasoning mix,1,,chili powder,",",',:,"'chili seasoning mix':'chili powder',"
+ground chipotle chile pepper,2,,chipotle,",",',:,"'ground chipotle chile pepper':'chipotle',"
+dried cilantro,3,,cilantro,",",',:,"'dried cilantro':'cilantro',"
+cod fillets,1,,fish,",",',:,"'cod fillets':'fish',"
+ground coriander,5,,coriander,",",',:,"'ground coriander':'coriander',"
+corn kernels,1,,corn,",",',:,"'corn kernels':'corn',"
+creamed corn,1,,corn,",",',:,"'creamed corn':'corn',"
+frozen corn,4,,corn,",",',:,"'frozen corn':'corn',"
+sweet corn on the cob,2,,corn,",",',:,"'sweet corn on the cob':'corn',"
+whole kernel corn,4,,corn,",",',:,"'whole kernel corn':'corn',"
+mexican crema,3,,crema,",",',:,"'mexican crema':'crema',"
+creole seasoning,1,,creole season,",",',:,"'creole seasoning':'creole season',"
+persian cucumber,3,,cucumber,",",',:,"'persian cucumber':'cucumber',"
+cumin seeds,2,,cumin,",",',:,"'cumin seeds':'cumin',"
+ground cumin,1,,cumin,",",',:,"'ground cumin':'cumin',"
+dried arbol chile,1,,dried pepper,",",',:,"'dried arbol chile':'dried pepper',"
+green enchilada sauce,6,,enchilada sauce,",",',:,"'green enchilada sauce':'enchilada sauce',"
+salmon,3,,fish,",",',:,"'salmon':'fish',"
+swordfish,1,,fish,",",',:,"'swordfish':'fish',"
+tilapia,3,,fish,",",',:,"'tilapia':'fish',"
+anaheim pepper,1,,fresh pepper,",",',:,"'anaheim pepper':'fresh pepper',"
+green chili pepper,8,,fresh pepper,",",',:,"'green chili pepper':'fresh pepper',"
+jalapeno pepper,29,,fresh pepper,",",',:,"'jalapeno pepper':'fresh pepper',"
+pasilla pepper,1,,fresh pepper,",",',:,"'pasilla pepper':'fresh pepper',"
+poblano pepper,1,,fresh pepper,",",',:,"'poblano pepper':'fresh pepper',"
+serrano pepper,6,,fresh pepper,",",',:,"'serrano pepper':'fresh pepper',"
+garlic powder,13,,garlic,",",',:,"'garlic powder':'garlic',"
+garlic salt,1,,garlic,",",',:,"'garlic salt':'garlic',"
+whole garlic cloves,1,,garlic,",",',:,"'whole garlic cloves':'garlic',"
+ginger,4,,ginger,",",',:,"'ginger':'ginger',"
+guacamole,3,,guacamole,",",',:,"'guacamole':'guacamole',"
+smoked ham hock,1,,ham hock,",",',:,"'smoked ham hock':'ham hock',"
+light vanilla ice cream,1,,ice cream,",",',:,"'light vanilla ice cream':'ice cream',"
+italian seasoning,1,,italian season,",",',:,"'italian seasoning':'italian season',"
+lemon juice,6,,lemon,",",',:,"'lemon juice':'lemon',"
+lemon peel,1,,lemon,",",',:,"'lemon peel':'lemon',"
+butter lettuce leaves,1,,lettuce,",",',:,"'butter lettuce leaves':'lettuce',"
+romaine,3,,lettuce,",",',:,"'romaine':'lettuce',"
+lime juice,45,,lime,",",',:,"'lime juice':'lime',"
+lime peel,8,,lime,",",',:,"'lime peel':'lime',"
+lime wedge,2,,lime,",",',:,"'lime wedge':'lime',"
+dried mango,1,,mango,",",',:,"'dried mango':'mango',"
+condensed cream of mushroom soup,2,,mushroom soup,",",',:,"'condensed cream of mushroom soup':'mushroom soup',"
+fresh mushrooms,1,,mushrooms,",",',:,"'fresh mushrooms':'mushrooms',"
+mustard powder,1,,mustard powder,",",',:,"'mustard powder':'mustard powder',"
+coconut oil,1,,oil,",",',:,"'coconut oil':'oil',"
+cooking oil,6,,oil,",",',:,"'cooking oil':'oil',"
+extra virgin olive oil,5,,oil,",",',:,"'extra virgin olive oil':'oil',"
+grape seed oil,1,,oil,",",',:,"'grape seed oil':'oil',"
+light olive oil,1,,oil,",",',:,"'light olive oil':'oil',"
+olive oil,30,,oil,",",',:,"'olive oil':'oil',"
+peanut oil,1,,oil,",",',:,"'peanut oil':'oil',"
+rice bran oil,1,,oil,",",',:,"'rice bran oil':'oil',"
+vegetable oil,6,,oil,",",',:,"'vegetable oil':'oil',"
+black olives,3,,olives,",",',:,"'black olives':'olives',"
+olives,3,,olives,",",',:,"'olives':'olives',"
+onion powder,4,,onion,",",',:,"'onion powder':'onion',"
+red onion,26,,onion,",",',:,"'red onion':'onion',"
+white onion,8,,onion,",",',:,"'white onion':'onion',"
+yellow onion,5,,onion,",",',:,"'yellow onion':'onion',"
+spring onions,14,,onion,",",',:,"'spring onions':'onion',"
+navel orange,2,,orange,",",',:,"'navel orange':'orange',"
+orange juice,3,,orange,",",',:,"'orange juice':'orange',"
+smoked paprika,2,,paprika,",",',:,"'smoked paprika':'paprika',"
+peas and carrots,1,,pea,",",',:,"'peas and carrots':'pea',"
+pico de gallo,1,,pico de gallo,",",',:,"'pico de gallo':'pico de gallo',"
+pistachio nuts,1,,pistachio,",",',:,"'pistachio nuts':'pistachio',"
+boston butt,1,,pork,",",',:,"'boston butt':'pork',"
+lean pork tenderloin,1,,pork,",",',:,"'lean pork tenderloin':'pork',"
+pork chops,2,,pork,",",',:,"'pork chops':'pork',"
+ground pork sausage,1,,pork sausage,",",',:,"'ground pork sausage':'pork sausage',"
+yukon gold potato,1,,potato,",",',:,"'yukon gold potato':'potato',"
+cooked quinoa,1,,quinoa,",",',:,"'cooked quinoa':'quinoa',"
+red pepper flakes,5,,red pepper flake,",",',:,"'red pepper flakes':'red pepper flake',"
+brown rice,1,,rice,",",',:,"'brown rice':'rice',"
+cooked brown rice,2,,rice,",",',:,"'cooked brown rice':'rice',"
+cooked rice,1,,rice,",",',:,"'cooked rice':'rice',"
+picante sauce,1,,salsa,",",',:,"'picante sauce':'salsa',"
+salsa verde,2,,salsa,",",',:,"'salsa verde':'salsa',"
+kosher salt,14,,salt and pepper,",",',:,"'kosher salt':'salt and pepper',"
+black pepper,27,,salt and pepper,",",',:,"'black pepper':'salt and pepper',"
+coarse sea salt,4,,salt and pepper,",",',:,"'coarse sea salt':'salt and pepper',"
+salt,37,,salt and pepper,",",',:,"'salt':'salt and pepper',"
+seasoned salt,1,,salt and pepper,",",',:,"'seasoned salt':'salt and pepper',"
+white pepper,2,,salt and pepper,",",',:,"'white pepper':'salt and pepper',"
+vegetable stock,1,,broth,",",',:,"'vegetable stock':'broth',"
+dark brown sugar,1,,sugar,",",',:,"'dark brown sugar':'sugar',"
+golden brown sugar,1,,sugar,",",',:,"'golden brown sugar':'sugar',"
+dried thyme,1,,thyme,",",',:,"'dried thyme':'thyme',"
+canned diced tomatoes,3,,tomato,",",',:,"'canned diced tomatoes':'tomato',"
+canned tomatoes,10,,tomato,",",',:,"'canned tomatoes':'tomato',"
+cherry tomato,8,,tomato,",",',:,"'cherry tomato':'tomato',"
+diced tomatoes with green chilies,2,,tomato,",",',:,"'diced tomatoes with green chilies':'tomato',"
+fire roasted tomatoes,3,,tomato,",",',:,"'fire roasted tomatoes':'tomato',"
+italian tomato,6,,tomato,",",',:,"'italian tomato':'tomato',"
+plum tomato,1,,tomato,",",',:,"'plum tomato':'tomato',"
+tomato juice,1,,tomato,",",',:,"'tomato juice':'tomato',"
+tomato paste,4,,tomato,",",',:,"'tomato paste':'tomato',"
+canned tomato sauce,4,,tomato sauce,",",',:,"'canned tomato sauce':'tomato sauce',"
+burrito size tortilla,1,,tortilla,",",',:,"'burrito size tortilla':'tortilla',"
+flour tortilla,10,,tortilla,",",',:,"'flour tortilla':'tortilla',"
+scoops tortilla chips,1,,tortilla,",",',:,"'scoops tortilla chips':'tortilla',"
+white corn tortilla,17,,tortilla,",",',:,"'white corn tortilla':'tortilla',"
+wrap,1,,tortilla,",",',:,"'wrap':'tortilla',"
+corn tortilla chips,7,,tortilla,",",',:,"'corn tortilla chips':'tortilla',"
+ground turkey,7,,turkey,",",',:,"'ground turkey':'turkey',"
+apple cider vinegar,2,,vinegar,",",',:,"'apple cider vinegar':'vinegar',"
+balsamic vinegar,2,,vinegar,",",',:,"'balsamic vinegar':'vinegar',"
+distilled white vinegar,2,,vinegar,",",',:,"'distilled white vinegar':'vinegar',"
+white wine vinegar,1,,vinegar,",",',:,"'white wine vinegar':'vinegar',"
+fat free greek yogurt,3,,yogurt,",",',:,"'fat free greek yogurt':'yogurt',"
+greek yogurt,2,,yogurt,",",',:,"'greek yogurt':'yogurt',"
+low fat yogurt,1,,yogurt,",",',:,"'low fat yogurt':'yogurt',"
+adobo sauce,1,,,,,,
+agave,1,,,,,,
+allspice,1,,,,,,
+almond milk,1,,,,,,
+artichoke,1,,,,,,
+avocado,37,,,,,,
+avocado oil,1,,,,,,
+beef,1,,,,,,
+bell pepper,17,,,,,,
+black bean sauce,1,,,,,,
+blackberries,1,,,,,,
+blueberries,1,,,,,,
+breadcrumbs,1,,,,,,
+butter,5,,,,,,
+buttermilk,2,,,,,,
+cabbage,2,,,,,,
+cantaloupe,1,,,,,,
+carrot,3,,,,,,
+catfish,1,,,,,,
+cauliflower,1,,,,,,
+caviar,1,,,,,,
+celery seed,1,,,,,,
+cheese,3,,,,,,
+cherries,1,,,,,,
+chives,1,,,,,,
+cilantro,51,,,,,,
+coconut milk,1,,,,,,
+corn,7,,,,,,
+corn starch,1,,,,,,
+cornmeal,3,,,,,,
+cucumber,1,,,,,,
+cumin,33,,,,,,
+egg,2,,,,,,
+elk,1,,,,,,
+fennel,1,,,,,,
+fish,4,,,,,,
+garlic,50,,,,,,
+honey,3,,,,,,
+hot sauce,5,,,,,,
+ice,2,,,,,,
+juice,1,,,,,,
+kale,1,,,,,,
+kimchi,1,,,,,,
+kiwi,2,,,,,,
+lemon,2,,,,,,
+lettuce,6,,,,,,
+lime,11,,,,,,
+mango,10,,,,,,
+mayonnaise,2,,,,,,
+milk,4,,,,,,
+mint,5,,,,,,
+miso,1,,,,,,
+mozzarella,1,,,,,,
+None,2,,,,,,
+onion,41,,,,,,
+orange,2,,,,,,
+oregano,9,,,,,,
+paprika,9,,,,,,
+parsley,2,,,,,,
+passata,1,,,,,,
+peach,3,,,,,,
+pimiento,1,,,,,,
+pine nuts,1,,,,,,
+pineapple,2,,,,,,
+polenta,1,,,,,,
+pork,1,,,,,,
+port,1,,,,,,
+potato,1,,,,,,
+quinoa,3,,,,,,
+rice,2,,,,,,
+salsa,24,,,,,,
+salt and pepper,18,,,,,,
+scallops,1,,,,,,
+seasoning,2,,,,,,
+sesame seeds,1,,,,,,
+shallot,3,,,,,,
+shrimp,1,,,,,,
+sour cream,14,,,,,,
+soy sauce,2,,,,,,
+spaghetti squash,1,,,,,,
+spinach,1,,,,,,
+sriracha,2,,,,,,
+stock,2,,,,,,
+strawberries,2,,,,,,
+sugar,5,,,,,,
+sweet potato,3,,,,,,
+taco seasoning mix,7,,,,,,
+tequila,1,,,,,,
+tomatillos,6,,,,,,
+tomato,26,,,,,,
+tortilla,4,,,,,,
+walnuts,1,,,,,,
+water,12,,,,,,
+watermelon,1,,,,,,
+wheat flour,2,,,,,,
+zucchini,1,,,,,,
