@@ -1,4 +1,4 @@
-Unnamed: 0,cuisine_SP,aisle_SP,ingredients_SP
+recipe_name,cuisine_SP,aisle_SP,ingredients_SP
 Pear-ginger upside-down cake,[],"['Baking', 'Baking', 'Milk, Eggs, Other Dairy', 'Baking', 'Health Foods;Baking', 'Milk, Eggs, Other Dairy', 'Baking', 'Produce;Ethnic Foods;Spices and Seasonings', 'Spices and Seasonings', 'Cereal', 'Produce', 'Spices and Seasonings', 'Milk, Eggs, Other Dairy']","['low sodium baking powder', 'baking soda', 'buttermilk', 'dark brown sugar', 'demerara sugar', 'egg', 'wheat flour', 'ginger', 'ground cinnamon', 'maple syrup', 'pear', 'salt', 'unsalted butter']"
 Easy Chicken Cordon Bleu,[],"['Meat', 'Meat', 'Cheese', 'Spices and Seasonings', 'Spices and Seasonings', 'Pasta and Rice', 'Baking', 'Milk, Eggs, Other Dairy', 'Milk, Eggs, Other Dairy']","['boneless skinless chicken breast', 'ham', 'cheddar cheese', 'salt', 'black peppercorns', 'breadcrumbs', 'wheat flour', 'egg', 'butter']"
 Chicken 65,[],"['Meat', 'Spices and Seasonings', 'Ethnic Foods', 'Spices and Seasonings', 'Spices and Seasonings', 'Milk, Eggs, Other Dairy']","['chicken breast', 'chili powder', 'ginger garlic paste', 'salt', 'turmeric', 'yogurt']"
