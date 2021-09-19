@@ -1,0 +1,264 @@
+,feature_importance
+thyme,0.06316606070565084
+garlic,0.062105843008203446
+wine,0.045081010916300936
+crepes,0.036530714658020484
+mushrooms,0.03383267290103732
+cumin,0.03232278249793591
+rice,0.031924468725688174
+lime,0.02736346547313146
+carrots,0.027172029371255842
+lemon,0.026519151232874332
+fresh pepper,0.02522981106090701
+onion,0.023691540051420056
+hot sauce or salsa,0.022496348473756516
+tomato,0.021633136900812377
+bell pepper,0.021535405667468803
+italian cheese,0.02080654549815552
+bay leaves,0.020559879666300858
+almonds,0.018750536520277222
+mayonnaise,0.018192292079924587
+berries,0.0179352235100246
+parsley,0.01786154098939436
+ginger,0.01618576529285976
+vinegar,0.01557172178002229
+corn,0.014902919729851942
+banana,0.01417785377930917
+mediterranean cheese,0.013762539937981034
+dill,0.013143272519877097
+chili powder,0.013088766484321977
+broth,0.013072424345586633
+cabbage,0.012772166127980463
+marsala,0.012412956645169856
+potato,0.012002255978472081
+basil,0.011959011800975932
+cocoa,0.011677526486341004
+celery,0.011442887472843473
+pasta,0.01119742054862063
+cilantro,0.009613873051364292
+chives,0.008963136011284551
+spinach,0.008934977291776398
+coriander,0.008931266391061276
+syrup,0.008856324126126351
+paprika,0.008831547895503318
+honey,0.008755097427607626
+bacon,0.007299429949226387
+orange,0.006676176586748766
+oregano,0.005765699716284353
+sage,0.005656699001837331
+shallot,0.005527346305529252
+brie,0.005268456153195798
+curry,0.004751438508690997
+yogurt,0.004092427434517914
+cayenne,0.004001063664418125
+vanilla,0.003653117443754668
+hoisin sauce,0.0032990130550014252
+mint,0.0031606883501767128
+summer squash,0.0029513136249818264
+chickpea,0.0029445062157753706
+prepared mustard,0.002895543279363206
+avocado,0.0028296926407330673
+eggplant,0.002677413263256497
+winter squash,0.002585768314899546
+mustard seed,0.002535191742104947
+soy sauce,0.00220575694328903
+tomato sauce,0.0021976385535551857
+cornmeal,0.0021243359781296465
+quark,0.0020869685980531814
+sesame seeds,0.0017553123850229525
+nutmeg,0.0017244076468647255
+chocolate,0.0016868986213305706
+fresh chile,0.0016391515897733967
+rosemary,0.0015450766793884151
+italian cured meat,0.0014912482354343987
+cinnamon,0.0014362252144146986
+tahini,0.0012891329283793635
+polenta,0.0011443037647617933
+bourbon,0.0011002292592908439
+horseradish,0.0010296351523946421
+peanut butter,0.0010296240632592507
+grain,0.0009689318285695392
+enchilada sauce,0.0009686888151758247
+pico de gallo,0.0008817553000678446
+hollandaise sauce,0.0008485140313309626
+arrowroot,0.000836448513846322
+asafoetida,0.0008225870531629592
+coffee,0.0007872202240226012
+coconut,0.0007417712740770773
+puff pastry,0.0007188182980131017
+gochujang,0.000657201160926299
+korean bbq marinade,0.0006569221556731447
+lemon pepper,0.000640594697827469
+zaatar,0.0006319131551477949
+rhubarb,0.0006053116010108329
+blackeyed peas,0.0005952667865820469
+jicama,0.0005673957807079108
+canned pumpkin,0.0005316724581243937
+tofu,0.0005103112662115132
+mango,0.000509148974538042
+worcestershire sauce,0.0005046843684680633
+turmeric,0.0005033207019902463
+pineapple,0.0004715134698150201
+celery salt,0.00047085330621533756
+swiss chard,0.0004288014275633149
+barbecue sauce,0.0004073538246921703
+liquid smoke,0.00039665677330124726
+chinese five spice,0.000392912470057179
+mexican cheese,0.00039060870848054644
+chili garlic sauce,0.0003692902162510747
+wonton wrappers,0.0003686691985191517
+ajwain,0.00031388892020669645
+ketchup,0.0002992436647945884
+radicchio,0.00029401477856245473
+pickle juice,0.0002861059066339973
+masala,0.00027922222401655176
+allspice,0.0002269176804712783
+cauliflower,0.00022549508624198977
+grits,0.0001656232922970479
+daikon radish,0.0001533839139653706
+fenugreek,0.00014782268952055888
+cucumber,0.0001134209305342666
+snow peas,8.144117413728674e-05
+fish sauce,7.514508220959413e-05
+fennel,7.512749608039612e-05
+tomatillos,5.490742264288936e-05
+cherry,0.0
+kelp,0.0
+tea,0.0
+moscato,0.0
+star anise,0.0
+cassava,0.0
+escarole,0.0
+sweet chili sauce,0.0
+watercress,0.0
+chili sauce,0.0
+grand marnier,0.0
+anise,0.0
+broccoli rabe,0.0
+bottle gourd,0.0
+banana liqueur,0.0
+bok choy,0.0
+guava,0.0
+fresh lavender,0.0
+vodka,0.0
+white grape juice,0.0
+miso,0.0
+green grapes,0.0
+wasabi powder,0.0
+black tea bag,0.0
+caraway seeds,0.0
+vegeta,0.0
+egg noodles,0.0
+gherkins,0.0
+paneer,0.0
+okra,0.0
+tangerine,0.0
+file powder,0.0
+cracked wheat,0.0
+eggnog,0.0
+kefir,0.0
+dandelion greens,0.0
+harissa,0.0
+sprouts,0.0
+squash blossoms,0.0
+grapefruit,0.0
+tamarind pulp,0.0
+savory,0.0
+baharat,0.0
+douchi,0.0
+sucralose,0.0
+apple,0.0
+matzo meal,0.0
+prunes,0.0
+rose water,0.0
+balsamic,0.0
+hibiscus,0.0
+tequila,0.0
+sardines,0.0
+turnip,0.0
+ladyfingers,0.0
+orange marmalade,0.0
+stinging nettle,0.0
+mini peppers,0.0
+carob powder,0.0
+soba noodles,0.0
+marzipan,0.0
+orange bitters,0.0
+matcha,0.0
+pesto,0.0
+black bean sauce,0.0
+capers,0.0
+radish,0.0
+oats,0.0
+purple plum,0.0
+peppermint extract,0.0
+sunflower kernels,0.0
+beer,0.0
+kale,0.0
+flaxseed,0.0
+hazelnuts,0.0
+clove,0.0
+pumpkin pie spice,0.0
+pumpkin seeds,0.0
+poppy seeds,0.0
+teriyaki sauce,0.0
+apple juice,0.0
+parsnip,0.0
+raisin,0.0
+cardomom,0.0
+marjoram,0.0
+amchoor,0.0
+leek,0.0
+agave,0.0
+molasses,0.0
+watermelon,0.0
+dried chile,0.0
+artichoke,0.0
+plantain,0.0
+apricot,0.0
+brussels sprouts,0.0
+beets,0.0
+peach,0.0
+grapes,0.0
+couscous,0.0
+asparagus,0.0
+seedsarugula,0.0
+tarragon,0.0
+olives,0.0
+saffron,0.0
+dates,0.0
+creme fraiche,0.0
+mexican crema,0.0
+caramel sauce,0.0
+green tea bag,0.0
+masa harina,0.0
+thai chili,0.0
+coconut rum,0.0
+petite peas,0.0
+dried currants,0.0
+lemon grass,0.0
+boquerones,0.0
+bitters,0.0
+chai spice,0.0
+broccolini,0.0
+guacamole,0.0
+pear,0.0
+farro,0.0
+xylitol,0.0
+legumes,0.0
+fig,0.0
+celery seed,0.0
+maple,0.0
+tamari,0.0
+herbes de provence,0.0
+port,0.0
+dulce de leche,0.0
+yam,0.0
+whiskey,0.0
+broccoli,0.0
+amaretto liqueur,0.0
+water chestnuts,0.0
+bran,0.0
+quail,0.0
+pita,0.0
+lentils,0.0
