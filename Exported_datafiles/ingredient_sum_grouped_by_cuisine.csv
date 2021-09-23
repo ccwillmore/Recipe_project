@@ -1,0 +1,1022 @@
+,cuisine,ingredient,sum
+1,African,onion,22
+2,African,garlic,22
+5,African,bell pepper,10
+6,African,tomato,22
+15,African,ginger,10
+19,African,thyme,22
+21,African,rice,12
+22,African,fresh pepper,12
+25,African,potato,10
+47,African,bay leaves,12
+61,African,curry,22
+263,American,cumin,150
+264,American,onion,568
+265,American,garlic,514
+266,American,vanilla,963
+267,American,lemon,355
+268,American,bell pepper,360
+269,American,tomato,87
+270,American,chocolate,369
+271,American,mushrooms,78
+272,American,italian cheese,56
+273,American,parsley,186
+274,American,cinnamon,600
+275,American,berries,125
+276,American,corn,180
+277,American,broth,132
+278,American,ginger,163
+279,American,lime,50
+280,American,carrots,67
+281,American,vinegar,274
+282,American,thyme,9
+283,American,basil,42
+284,American,rice,34
+285,American,fresh pepper,113
+286,American,almonds,153
+287,American,cilantro,53
+288,American,potato,178
+289,American,honey,241
+290,American,wine,92
+291,American,apple,430
+292,American,pasta,99
+293,American,orange,182
+294,American,cocoa,316
+295,American,chili powder,71
+296,American,yogurt,54
+297,American,bacon,201
+298,American,hot sauce or salsa,85
+299,American,banana,60
+300,American,nutmeg,234
+301,American,soy sauce,30
+302,American,celery,56
+303,American,cayenne,123
+304,American,shallot,103
+305,American,syrup,97
+306,American,mediterranean cheese,157
+307,American,mayonnaise,157
+308,American,coconut,132
+309,American,coffee,190
+310,American,bay leaves,26
+311,American,oregano,72
+312,American,tomato sauce,80
+313,American,paprika,98
+314,American,prepared mustard,139
+315,American,spinach,44
+316,American,mint,41
+317,American,avocado,83
+318,American,rosemary,26
+319,American,chives,83
+320,American,pineapple,27
+321,American,peanut butter,32
+322,American,worcestershire sauce,48
+323,American,cherry,86
+324,American,curry,27
+325,American,cabbage,18
+326,American,turmeric,28
+327,American,summer squash,60
+328,American,barbecue sauce,31
+329,American,dill,21
+330,American,pear,85
+331,American,mango,17
+332,American,mustard seed,84
+333,American,chickpea,43
+334,American,cucumber,31
+335,American,broccoli,11
+336,American,coriander,7
+337,American,cornmeal,11
+338,American,eggplant,8
+340,American,cauliflower,36
+341,American,grain,20
+342,American,dates,66
+343,American,olives,25
+344,American,raisin,83
+345,American,ketchup,65
+347,American,fresh chile,13
+348,American,sesame seeds,16
+349,American,clove,71
+350,American,flaxseed,54
+351,American,winter squash,53
+352,American,kale,11
+353,American,beer,34
+354,American,cardomom,22
+355,American,asparagus,34
+356,American,allspice,61
+357,American,capers,26
+359,American,agave,37
+360,American,fennel,26
+361,American,molasses,67
+363,American,watermelon,29
+364,American,tofu,27
+365,American,dried chile,11
+366,American,puff pastry,42
+367,American,artichoke,8
+368,American,plantain,39
+369,American,apricot,19
+370,American,canned pumpkin,30
+371,American,brussels sprouts,32
+372,American,swiss chard,21
+373,American,beets,44
+375,American,grapes,40
+377,American,couscous,19
+379,American,grits,31
+381,American,tarragon,24
+382,American,leek,7
+384,American,liquid smoke,19
+385,American,oats,26
+386,American,brie,12
+389,American,peppermint extract,33
+390,American,sunflower kernels,13
+391,American,rhubarb,19
+393,American,polenta,7
+394,American,lentils,11
+395,American,hazelnuts,35
+396,American,tahini,9
+397,American,pumpkin pie spice,16
+398,American,celery salt,11
+399,American,pumpkin seeds,18
+401,American,horseradish,20
+404,American,apple juice,6
+407,American,hoisin sauce,8
+410,American,creme fraiche,7
+413,American,maple,31
+415,American,marsala,8
+416,American,herbes de provence,30
+417,American,port,16
+418,American,dulce de leche,11
+419,American,fig,9
+420,American,yam,18
+421,American,chinese five spice,14
+422,American,arrowroot,14
+425,American,water chestnuts,16
+426,American,bran,26
+428,American,pita,25
+432,American,xylitol,24
+435,American,hollandaise sauce,11
+436,American,caramel sauce,24
+438,American,masa harina,11
+439,American,thai chili,14
+440,American,coconut rum,13
+446,American,chai spice,10
+451,American,radish,8
+454,American,tea,7
+457,American,watercress,16
+459,American,anise,16
+466,American,green grapes,14
+478,American,grand marnier,11
+486,American,prunes,11
+489,American,tequila,11
+496,American,mini peppers,10
+497,American,carob powder,10
+508,American,pico de gallo,8
+509,American,chili garlic sauce,8
+512,American,cracked wheat,8
+517,American,sprouts,7
+519,American,grapefruit,7
+526,Asian,cumin,18
+527,Asian,onion,458
+528,Asian,garlic,515
+529,Asian,vanilla,155
+530,Asian,lemon,128
+531,Asian,bell pepper,169
+532,Asian,tomato,38
+534,Asian,mushrooms,111
+535,Asian,italian cheese,6
+536,Asian,parsley,79
+537,Asian,cinnamon,52
+538,Asian,berries,136
+539,Asian,corn,128
+540,Asian,broth,170
+541,Asian,ginger,286
+542,Asian,lime,130
+543,Asian,carrots,294
+544,Asian,vinegar,78
+545,Asian,thyme,30
+546,Asian,basil,108
+547,Asian,rice,338
+548,Asian,fresh pepper,84
+549,Asian,almonds,26
+550,Asian,cilantro,85
+551,Asian,potato,27
+552,Asian,honey,127
+553,Asian,wine,64
+554,Asian,apple,30
+555,Asian,pasta,6
+556,Asian,orange,26
+558,Asian,chili powder,66
+559,Asian,yogurt,38
+560,Asian,bacon,25
+561,Asian,hot sauce or salsa,24
+562,Asian,banana,59
+563,Asian,nutmeg,31
+564,Asian,soy sauce,349
+565,Asian,celery,15
+566,Asian,cayenne,28
+567,Asian,shallot,7
+568,Asian,syrup,6
+569,Asian,mediterranean cheese,6
+570,Asian,mayonnaise,25
+571,Asian,coconut,40
+572,Asian,coffee,7
+573,Asian,bay leaves,28
+574,Asian,oregano,6
+576,Asian,paprika,24
+577,Asian,prepared mustard,57
+578,Asian,spinach,38
+579,Asian,mint,54
+581,Asian,rosemary,8
+582,Asian,chives,34
+583,Asian,pineapple,47
+584,Asian,peanut butter,23
+585,Asian,worcestershire sauce,32
+586,Asian,cherry,9
+587,Asian,curry,19
+588,Asian,cabbage,68
+589,Asian,turmeric,27
+590,Asian,summer squash,26
+591,Asian,barbecue sauce,35
+594,Asian,mango,25
+596,Asian,chickpea,27
+597,Asian,cucumber,25
+598,Asian,broccoli,59
+601,Asian,eggplant,7
+603,Asian,cauliflower,10
+604,Asian,grain,22
+605,Asian,dates,9
+606,Asian,olives,12
+608,Asian,ketchup,37
+610,Asian,fresh chile,13
+611,Asian,sesame seeds,66
+613,Asian,flaxseed,15
+614,Asian,winter squash,13
+615,Asian,kale,14
+616,Asian,beer,9
+619,Asian,allspice,8
+621,Asian,petite peas,37
+622,Asian,agave,8
+624,Asian,molasses,16
+627,Asian,tofu,30
+628,Asian,dried chile,8
+634,Asian,brussels sprouts,14
+637,Asian,peach,18
+639,Asian,fish sauce,58
+640,Asian,couscous,11
+647,Asian,liquid smoke,19
+648,Asian,oats,6
+651,Asian,snow peas,36
+653,Asian,sunflower kernels,23
+655,Asian,wonton wrappers,44
+662,Asian,pumpkin seeds,14
+665,Asian,daikon radish,27
+666,Asian,teriyaki sauce,25
+668,Asian,parsnip,14
+669,Asian,blackeyed peas,13
+670,Asian,hoisin sauce,24
+675,Asian,celery seed,21
+677,Asian,tamari,19
+684,Asian,chinese five spice,14
+688,Asian,water chestnuts,11
+694,Asian,gochujang,24
+700,Asian,green tea bag,11
+705,Asian,dried currants,11
+706,Asian,lemon grass,11
+716,Asian,black bean sauce,17
+718,Asian,star anise,6
+721,Asian,chili sauce,16
+724,Asian,kelp,15
+725,Asian,bok choy,15
+731,Asian,vegeta,13
+739,Asian,korean bbq marinade,12
+742,Asian,sweet chili sauce,11
+756,Asian,gherkins,10
+761,Asian,soba noodles,10
+786,Asian,douchi,6
+788,Asian,jicama,3
+790,Creole,onion,50
+791,Creole,garlic,50
+792,Creole,vanilla,231
+793,Creole,lemon,20
+794,Creole,bell pepper,36
+795,Creole,tomato,40
+796,Creole,chocolate,231
+798,Creole,italian cheese,19
+799,Creole,parsley,8
+801,Creole,berries,24
+803,Creole,broth,32
+806,Creole,carrots,10
+808,Creole,thyme,40
+810,Creole,rice,40
+811,Creole,fresh pepper,10
+812,Creole,almonds,11
+815,Creole,honey,7
+819,Creole,orange,38
+821,Creole,chili powder,10
+822,Creole,yogurt,29
+824,Creole,hot sauce or salsa,27
+825,Creole,banana,28
+828,Creole,celery,40
+829,Creole,cayenne,10
+831,Creole,syrup,11
+833,Creole,mayonnaise,10
+834,Creole,coconut,11
+836,Creole,bay leaves,15
+837,Creole,oregano,9
+838,Creole,tomato sauce,21
+839,Creole,paprika,10
+843,Creole,avocado,10
+847,Creole,peanut butter,40
+848,Creole,worcestershire sauce,14
+849,Creole,cherry,10
+852,Creole,turmeric,4
+855,Creole,dill,10
+857,Creole,mango,4
+863,Creole,cornmeal,10
+864,Creole,eggplant,10
+865,Creole,sage,17
+868,Creole,dates,4
+909,Creole,marjoram,10
+910,Creole,liquid smoke,10
+915,Creole,peppermint extract,12
+938,Creole,celery seed,10
+1013,Creole,balsamic,11
+1018,Creole,pickle juice,10
+1033,Creole,okra,8
+1037,Creole,file powder,8
+1053,English,onion,13
+1054,English,garlic,8
+1056,English,lemon,45
+1060,English,mushrooms,24
+1062,English,parsley,29
+1063,English,cinnamon,17
+1064,English,berries,287
+1065,English,corn,11
+1066,English,broth,11
+1067,English,ginger,17
+1070,English,vinegar,26
+1071,English,thyme,19
+1072,English,basil,10
+1075,English,almonds,63
+1077,English,potato,9
+1078,English,honey,10
+1079,English,wine,22
+1080,English,apple,34
+1083,English,cocoa,10
+1085,English,yogurt,21
+1087,English,hot sauce or salsa,9
+1088,English,banana,14
+1093,English,shallot,53
+1094,English,syrup,29
+1104,English,spinach,11
+1109,English,pineapple,11
+1110,English,peanut butter,14
+1113,English,curry,9
+1118,English,dill,10
+1126,English,cornmeal,9
+1129,English,cauliflower,9
+1133,English,raisin,13
+1140,English,winter squash,9
+1148,English,agave,10
+1153,English,tofu,9
+1158,English,apricot,24
+1163,English,peach,7
+1175,English,brie,19
+1189,English,poppy seeds,9
+1204,English,marsala,13
+1206,English,port,13
+1252,English,guava,15
+1277,English,hibiscus,11
+1316,European,onion,13
+1317,European,garlic,22
+1318,European,vanilla,22
+1328,European,corn,7
+1338,European,almonds,35
+1340,European,potato,13
+1348,European,yogurt,9
+1357,European,syrup,20
+1358,European,mediterranean cheese,22
+1367,European,spinach,11
+1375,European,cherry,33
+1387,European,broccoli,11
+1424,European,swiss chard,11
+1443,European,rhubarb,22
+1521,European,egg noodles,13
+1579,French,onion,171
+1580,French,garlic,149
+1581,French,vanilla,146
+1582,French,lemon,420
+1583,French,bell pepper,36
+1584,French,tomato,8
+1585,French,chocolate,6
+1586,French,mushrooms,139
+1587,French,italian cheese,16
+1588,French,parsley,66
+1589,French,cinnamon,16
+1590,French,berries,83
+1591,French,corn,35
+1592,French,broth,128
+1593,French,ginger,31
+1595,French,carrots,22
+1596,French,vinegar,35
+1597,French,thyme,198
+1600,French,fresh pepper,21
+1601,French,almonds,28
+1602,French,cilantro,12
+1603,French,potato,24
+1604,French,honey,44
+1605,French,wine,159
+1606,French,apple,23
+1607,French,pasta,22
+1608,French,orange,16
+1609,French,cocoa,20
+1611,French,yogurt,19
+1612,French,bacon,56
+1614,French,banana,16
+1617,French,celery,25
+1618,French,cayenne,34
+1619,French,shallot,67
+1620,French,syrup,93
+1621,French,mediterranean cheese,27
+1622,French,mayonnaise,12
+1623,French,coconut,31
+1625,French,bay leaves,62
+1627,French,tomato sauce,21
+1628,French,paprika,11
+1629,French,prepared mustard,22
+1630,French,spinach,38
+1631,French,mint,40
+1633,French,rosemary,35
+1634,French,chives,23
+1635,French,pineapple,8
+1636,French,peanut butter,9
+1637,French,worcestershire sauce,14
+1638,French,cherry,9
+1641,French,turmeric,12
+1642,French,summer squash,8
+1644,French,dill,37
+1645,French,pear,40
+1646,French,mango,17
+1649,French,cucumber,12
+1650,French,broccoli,7
+1651,French,coriander,11
+1652,French,cornmeal,14
+1653,French,eggplant,8
+1654,French,sage,13
+1657,French,dates,6
+1662,French,fresh chile,12
+1665,French,flaxseed,17
+1667,French,kale,13
+1669,French,cardomom,9
+1670,French,asparagus,24
+1672,French,capers,6
+1673,French,petite peas,8
+1674,French,agave,13
+1678,French,watermelon,8
+1679,French,tofu,10
+1681,French,puff pastry,8
+1686,French,brussels sprouts,10
+1687,French,swiss chard,11
+1696,French,tarragon,10
+1701,French,brie,8
+1711,French,tahini,13
+1715,French,poppy seeds,15
+1718,French,teriyaki sauce,12
+1719,French,apple juice,10
+1730,French,marsala,9
+1734,French,fig,8
+1744,French,whiskey,12
+1748,French,farro,11
+1752,French,green tea bag,12
+1757,French,dried currants,11
+1760,French,bitters,20
+1764,French,bourbon,7
+1779,French,vodka,8
+1780,French,crepes,15
+1787,French,wasabi powder,12
+1816,French,orange bitters,9
+1842,Greek,onion,117
+1843,Greek,garlic,43
+1845,Greek,lemon,74
+1846,Greek,bell pepper,25
+1847,Greek,tomato,63
+1851,Greek,parsley,28
+1852,Greek,cinnamon,13
+1853,Greek,berries,10
+1855,Greek,broth,41
+1858,Greek,carrots,29
+1859,Greek,vinegar,10
+1860,Greek,thyme,17
+1861,Greek,basil,12
+1862,Greek,rice,20
+1864,Greek,almonds,8
+1866,Greek,potato,12
+1867,Greek,honey,8
+1868,Greek,wine,12
+1870,Greek,pasta,19
+1874,Greek,yogurt,90
+1875,Greek,bacon,9
+1878,Greek,nutmeg,13
+1880,Greek,celery,29
+1882,Greek,shallot,12
+1884,Greek,mediterranean cheese,89
+1886,Greek,coconut,10
+1888,Greek,bay leaves,12
+1889,Greek,oregano,12
+1890,Greek,tomato sauce,13
+1893,Greek,spinach,16
+1895,Greek,avocado,7
+1897,Greek,chives,8
+1900,Greek,worcestershire sauce,10
+1903,Greek,cabbage,9
+1907,Greek,dill,21
+1912,Greek,cucumber,33
+1913,Greek,broccoli,12
+1916,Greek,eggplant,28
+1921,Greek,olives,8
+1931,Greek,beer,10
+1934,Greek,allspice,13
+1944,Greek,puff pastry,5
+1953,Greek,grapes,7
+1955,Greek,couscous,11
+2082,Greek,rose water,8
+2092,Greek,kefir,7
+2104,Indian,cumin,149
+2105,Indian,onion,162
+2106,Indian,garlic,267
+2108,Indian,lemon,65
+2110,Indian,tomato,113
+2112,Indian,mushrooms,13
+2114,Indian,parsley,11
+2115,Indian,cinnamon,62
+2116,Indian,berries,10
+2117,Indian,corn,21
+2118,Indian,broth,40
+2119,Indian,ginger,173
+2120,Indian,lime,14
+2122,Indian,vinegar,16
+2123,Indian,thyme,23
+2124,Indian,basil,12
+2125,Indian,rice,24
+2126,Indian,fresh pepper,70
+2127,Indian,almonds,28
+2128,Indian,cilantro,137
+2129,Indian,potato,51
+2130,Indian,honey,19
+2133,Indian,pasta,12
+2134,Indian,orange,12
+2136,Indian,chili powder,76
+2137,Indian,yogurt,164
+2138,Indian,bacon,10
+2141,Indian,nutmeg,23
+2143,Indian,celery,11
+2144,Indian,cayenne,45
+2145,Indian,shallot,19
+2149,Indian,coconut,7
+2152,Indian,oregano,13
+2153,Indian,tomato sauce,42
+2154,Indian,paprika,30
+2159,Indian,rosemary,13
+2165,Indian,curry,114
+2166,Indian,cabbage,10
+2167,Indian,turmeric,82
+2170,Indian,dill,5
+2173,Indian,mustard seed,15
+2174,Indian,chickpea,16
+2175,Indian,cucumber,5
+2177,Indian,coriander,74
+2179,Indian,eggplant,35
+2181,Indian,cauliflower,11
+2184,Indian,olives,19
+2185,Indian,raisin,7
+2188,Indian,fresh chile,8
+2190,Indian,clove,14
+2193,Indian,kale,10
+2195,Indian,cardomom,37
+2198,Indian,capers,11
+2201,Indian,fennel,29
+2203,Indian,masala,89
+2210,Indian,apricot,9
+2213,Indian,swiss chard,8
+2215,Indian,peach,10
+2216,Indian,grapes,12
+2223,Indian,leek,10
+2235,Indian,lentils,21
+2241,Indian,poppy seeds,7
+2247,Indian,blackeyed peas,8
+2249,Indian,saffron,14
+2250,Indian,asafoetida,23
+2264,Indian,fenugreek,27
+2297,Indian,ajwain,16
+2326,Indian,paneer,11
+2361,Indian,tamarind pulp,7
+2368,Irish,onion,138
+2369,Irish,garlic,82
+2371,Irish,lemon,12
+2372,Irish,bell pepper,30
+2373,Irish,tomato,27
+2375,Irish,mushrooms,29
+2377,Irish,parsley,76
+2380,Irish,corn,32
+2381,Irish,broth,86
+2384,Irish,carrots,148
+2385,Irish,vinegar,40
+2386,Irish,thyme,47
+2392,Irish,potato,127
+2396,Irish,pasta,15
+2406,Irish,celery,51
+2407,Irish,cayenne,13
+2414,Irish,bay leaves,65
+2417,Irish,paprika,12
+2418,Irish,prepared mustard,36
+2426,Irish,worcestershire sauce,15
+2429,Irish,cabbage,40
+2433,Irish,dill,20
+2436,Irish,mustard seed,30
+2456,Irish,kale,10
+2457,Irish,beer,23
+2486,Irish,leek,11
+2487,Irish,marjoram,13
+2502,Irish,celery salt,15
+2505,Irish,horseradish,17
+2509,Irish,parsnip,22
+2510,Irish,blackeyed peas,15
+2609,Irish,matzo meal,8
+2630,Italian,cumin,28
+2631,Italian,onion,524
+2632,Italian,garlic,871
+2633,Italian,vanilla,42
+2634,Italian,lemon,328
+2635,Italian,bell pepper,366
+2636,Italian,tomato,612
+2637,Italian,chocolate,15
+2638,Italian,mushrooms,103
+2639,Italian,italian cheese,815
+2640,Italian,parsley,343
+2641,Italian,cinnamon,22
+2642,Italian,berries,56
+2643,Italian,corn,29
+2644,Italian,broth,281
+2645,Italian,ginger,41
+2647,Italian,carrots,125
+2648,Italian,vinegar,95
+2649,Italian,thyme,250
+2650,Italian,basil,390
+2651,Italian,rice,52
+2652,Italian,fresh pepper,31
+2653,Italian,almonds,84
+2654,Italian,cilantro,11
+2655,Italian,potato,91
+2656,Italian,honey,48
+2657,Italian,wine,166
+2658,Italian,apple,8
+2659,Italian,pasta,334
+2660,Italian,orange,49
+2661,Italian,cocoa,29
+2662,Italian,chili powder,12
+2663,Italian,yogurt,9
+2664,Italian,bacon,82
+2665,Italian,hot sauce or salsa,15
+2667,Italian,nutmeg,42
+2669,Italian,celery,84
+2670,Italian,cayenne,18
+2671,Italian,shallot,52
+2672,Italian,syrup,26
+2673,Italian,mediterranean cheese,51
+2674,Italian,mayonnaise,35
+2675,Italian,coconut,11
+2676,Italian,coffee,10
+2677,Italian,bay leaves,74
+2678,Italian,oregano,122
+2679,Italian,tomato sauce,101
+2680,Italian,paprika,22
+2681,Italian,prepared mustard,9
+2682,Italian,spinach,96
+2683,Italian,mint,20
+2684,Italian,avocado,10
+2685,Italian,rosemary,145
+2686,Italian,chives,44
+2687,Italian,pineapple,41
+2689,Italian,worcestershire sauce,48
+2692,Italian,cabbage,42
+2693,Italian,turmeric,19
+2694,Italian,summer squash,56
+2695,Italian,barbecue sauce,31
+2696,Italian,dill,28
+2699,Italian,mustard seed,12
+2700,Italian,chickpea,19
+2701,Italian,cucumber,21
+2702,Italian,broccoli,39
+2703,Italian,coriander,19
+2704,Italian,cornmeal,8
+2705,Italian,eggplant,41
+2706,Italian,sage,55
+2707,Italian,cauliflower,24
+2708,Italian,grain,43
+2709,Italian,dates,8
+2710,Italian,olives,55
+2712,Italian,ketchup,10
+2713,Italian,italian cured meat,104
+2714,Italian,fresh chile,7
+2715,Italian,sesame seeds,13
+2717,Italian,flaxseed,18
+2718,Italian,winter squash,31
+2719,Italian,kale,26
+2720,Italian,beer,7
+2721,Italian,cardomom,13
+2722,Italian,asparagus,22
+2724,Italian,capers,53
+2725,Italian,petite peas,33
+2727,Italian,fennel,22
+2728,Italian,molasses,6
+2730,Italian,watermelon,8
+2732,Italian,dried chile,27
+2733,Italian,puff pastry,8
+2734,Italian,artichoke,58
+2735,Italian,plantain,32
+2736,Italian,apricot,19
+2737,Italian,canned pumpkin,9
+2738,Italian,brussels sprouts,10
+2741,Italian,peach,20
+2744,Italian,couscous,17
+2749,Italian,leek,23
+2750,Italian,marjoram,25
+2752,Italian,oats,15
+2753,Italian,brie,8
+2754,Italian,purple plum,17
+2757,Italian,sunflower kernels,9
+2760,Italian,polenta,19
+2761,Italian,lentils,10
+2762,Italian,hazelnuts,7
+2764,Italian,pumpkin pie spice,15
+2767,Italian,poppy seeds,7
+2777,Italian,creme fraiche,13
+2785,Italian,dulce de leche,10
+2786,Italian,fig,11
+2791,Italian,amaretto liqueur,9
+2794,Italian,quail,13
+2797,Italian,legumes,12
+2800,Italian,farro,13
+2811,Italian,boquerones,20
+2814,Italian,broccolini,19
+2816,Italian,bourbon,12
+2817,Italian,amchoor,19
+2818,Italian,radish,11
+2819,Italian,ladyfingers,17
+2827,Italian,broccoli rabe,16
+2834,Italian,caraway seeds,7
+2838,Italian,black tea bag,13
+2840,Italian,miso,12
+2847,Italian,escarole,11
+2848,Italian,cassava,11
+2849,Italian,radicchio,11
+2857,Italian,sardines,11
+2858,Italian,turnip,10
+2862,Italian,stinging nettle,10
+2870,Italian,pesto,9
+2882,Italian,dandelion greens,7
+2885,Italian,squash blossoms,7
+2891,Italian,sucralose,5
+2893,Mexican,cumin,229
+2894,Mexican,onion,587
+2895,Mexican,garlic,326
+2896,Mexican,vanilla,120
+2897,Mexican,lemon,65
+2898,Mexican,bell pepper,221
+2899,Mexican,tomato,326
+2900,Mexican,chocolate,13
+2901,Mexican,mushrooms,71
+2902,Mexican,italian cheese,12
+2903,Mexican,parsley,87
+2904,Mexican,cinnamon,126
+2905,Mexican,berries,56
+2906,Mexican,corn,185
+2907,Mexican,broth,93
+2908,Mexican,ginger,31
+2909,Mexican,lime,443
+2910,Mexican,carrots,63
+2911,Mexican,vinegar,76
+2913,Mexican,basil,44
+2914,Mexican,rice,73
+2915,Mexican,fresh pepper,178
+2916,Mexican,almonds,22
+2917,Mexican,cilantro,314
+2918,Mexican,potato,8
+2919,Mexican,honey,52
+2920,Mexican,wine,35
+2922,Mexican,pasta,11
+2923,Mexican,orange,41
+2924,Mexican,cocoa,33
+2925,Mexican,chili powder,185
+2927,Mexican,bacon,6
+2928,Mexican,hot sauce or salsa,233
+2930,Mexican,nutmeg,32
+2932,Mexican,celery,26
+2933,Mexican,cayenne,47
+2934,Mexican,shallot,38
+2935,Mexican,syrup,17
+2937,Mexican,mayonnaise,92
+2938,Mexican,coconut,14
+2939,Mexican,coffee,11
+2940,Mexican,bay leaves,10
+2941,Mexican,oregano,68
+2942,Mexican,tomato sauce,17
+2943,Mexican,paprika,52
+2944,Mexican,prepared mustard,7
+2946,Mexican,mint,109
+2947,Mexican,avocado,164
+2949,Mexican,chives,9
+2950,Mexican,pineapple,49
+2952,Mexican,worcestershire sauce,26
+2953,Mexican,cherry,32
+2955,Mexican,cabbage,13
+2957,Mexican,summer squash,26
+2958,Mexican,barbecue sauce,11
+2961,Mexican,mango,85
+2962,Mexican,mustard seed,13
+2963,Mexican,chickpea,8
+2964,Mexican,cucumber,19
+2966,Mexican,coriander,23
+2967,Mexican,cornmeal,13
+2970,Mexican,cauliflower,10
+2971,Mexican,grain,35
+2972,Mexican,dates,14
+2973,Mexican,olives,10
+2974,Mexican,raisin,20
+2977,Mexican,fresh chile,50
+2978,Mexican,sesame seeds,10
+2979,Mexican,clove,17
+2982,Mexican,kale,8
+2983,Mexican,beer,8
+2984,Mexican,cardomom,18
+2985,Mexican,asparagus,19
+2986,Mexican,allspice,15
+2989,Mexican,agave,8
+2993,Mexican,watermelon,20
+2995,Mexican,dried chile,39
+2996,Mexican,puff pastry,6
+3000,Mexican,canned pumpkin,8
+3008,Mexican,enchilada sauce,54
+3018,Mexican,snow peas,10
+3023,Mexican,polenta,17
+3029,Mexican,pumpkin seeds,7
+3032,Mexican,daikon radish,10
+3041,Mexican,mexican cheese,32
+3050,Mexican,yam,10
+3060,Mexican,legumes,6
+3064,Mexican,mexican crema,24
+3065,Mexican,hollandaise sauce,13
+3068,Mexican,masa harina,6
+3070,Mexican,coconut rum,9
+3071,Mexican,tomatillos,22
+3073,Mexican,lemon grass,10
+3078,Mexican,guacamole,19
+3084,Mexican,tea,10
+3085,Mexican,star anise,10
+3097,Mexican,caraway seeds,7
+3104,Mexican,white grape juice,12
+3107,Mexican,bottle gourd,11
+3140,Mexican,tangerine,8
+3146,Mexican,harissa,7
+3151,Mexican,savory,6
+3152,Mexican,baharat,6
+3156,Middle Eastern,cumin,11
+3158,Middle Eastern,garlic,35
+3160,Middle Eastern,lemon,35
+3166,Middle Eastern,parsley,11
+3167,Middle Eastern,cinnamon,9
+3171,Middle Eastern,ginger,11
+3174,Middle Eastern,vinegar,15
+3182,Middle Eastern,honey,9
+3188,Middle Eastern,chili powder,11
+3190,Middle Eastern,bacon,9
+3191,Middle Eastern,hot sauce or salsa,15
+3196,Middle Eastern,cayenne,11
+3206,Middle Eastern,paprika,24
+3212,Middle Eastern,chives,11
+3219,Middle Eastern,turmeric,11
+3221,Middle Eastern,barbecue sauce,15
+3226,Middle Eastern,chickpea,35
+3229,Middle Eastern,coriander,11
+3259,Middle Eastern,puff pastry,9
+3289,Middle Eastern,tahini,20
+3291,Middle Eastern,celery salt,15
+3302,Middle Eastern,asafoetida,11
+3392,Middle Eastern,zaatar,9
+3419,Southern,cumin,10
+3420,Southern,onion,175
+3421,Southern,garlic,87
+3422,Southern,vanilla,291
+3423,Southern,lemon,83
+3424,Southern,bell pepper,40
+3425,Southern,tomato,10
+3426,Southern,chocolate,443
+3428,Southern,italian cheese,32
+3429,Southern,parsley,98
+3430,Southern,cinnamon,121
+3431,Southern,berries,104
+3432,Southern,corn,233
+3433,Southern,broth,124
+3434,Southern,ginger,28
+3437,Southern,vinegar,27
+3438,Southern,thyme,29
+3440,Southern,rice,9
+3441,Southern,fresh pepper,62
+3442,Southern,almonds,87
+3443,Southern,cilantro,22
+3444,Southern,potato,50
+3445,Southern,honey,27
+3446,Southern,wine,8
+3447,Southern,apple,13
+3449,Southern,orange,44
+3450,Southern,cocoa,43
+3451,Southern,chili powder,27
+3452,Southern,yogurt,43
+3453,Southern,bacon,47
+3455,Southern,banana,206
+3456,Southern,nutmeg,30
+3457,Southern,soy sauce,20
+3458,Southern,celery,45
+3459,Southern,cayenne,48
+3461,Southern,syrup,38
+3463,Southern,mayonnaise,11
+3464,Southern,coconut,49
+3465,Southern,coffee,67
+3466,Southern,bay leaves,9
+3467,Southern,oregano,10
+3469,Southern,paprika,31
+3470,Southern,prepared mustard,10
+3471,Southern,spinach,6
+3472,Southern,mint,26
+3474,Southern,rosemary,31
+3475,Southern,chives,9
+3476,Southern,pineapple,34
+3477,Southern,peanut butter,82
+3478,Southern,worcestershire sauce,18
+3479,Southern,cherry,21
+3484,Southern,barbecue sauce,35
+3485,Southern,dill,10
+3487,Southern,mango,9
+3488,Southern,mustard seed,10
+3493,Southern,cornmeal,69
+3495,Southern,sage,47
+3496,Southern,cauliflower,21
+3498,Southern,dates,10
+3501,Southern,ketchup,9
+3502,Southern,italian cured meat,8
+3504,Southern,sesame seeds,9
+3505,Southern,clove,12
+3506,Southern,flaxseed,8
+3508,Southern,kale,9
+3514,Southern,petite peas,11
+3515,Southern,agave,10
+3516,Southern,fennel,14
+3520,Southern,tofu,9
+3526,Southern,canned pumpkin,22
+3528,Southern,swiss chard,11
+3530,Southern,peach,5
+3535,Southern,grits,22
+3537,Southern,tarragon,18
+3543,Southern,purple plum,13
+3547,Southern,rhubarb,3
+3553,Southern,pumpkin pie spice,10
+3560,Southern,apple juice,10
+3564,Southern,saffron,14
+3566,Southern,creme fraiche,13
+3574,Southern,dulce de leche,8
+3578,Southern,arrowroot,14
+3580,Southern,amaretto liqueur,9
+3585,Southern,whiskey,13
+3595,Southern,thai chili,9
+3620,Southern,vodka,7
+3626,Southern,banana liqueur,13
+3631,Southern,fresh lavender,12
+3639,Southern,moscato,11
+3640,Southern,lemon pepper,11
+3650,Southern,orange marmalade,10
+3656,Southern,marzipan,9
+3658,Southern,matcha,9
+3662,Southern,quark,8
+3669,Southern,eggnog,8
+3683,Spanish,onion,29
+3684,Spanish,garlic,29
+3686,Spanish,lemon,18
+3687,Spanish,bell pepper,18
+3688,Spanish,tomato,29
+3692,Spanish,parsley,29
+3696,Spanish,broth,21
+3699,Spanish,carrots,7
+3703,Spanish,rice,32
+3704,Spanish,fresh pepper,4
+3705,Spanish,almonds,11
+3709,Spanish,wine,7
+3717,Spanish,hot sauce or salsa,14
+3729,Spanish,bay leaves,18
+3733,Spanish,prepared mustard,11
+3739,Spanish,pineapple,11
+3745,Spanish,turmeric,14
+3752,Spanish,chickpea,11
+3754,Spanish,broccoli,11
+3777,Spanish,petite peas,7
+3786,Spanish,artichoke,7
+3827,Spanish,saffron,7
+3833,Spanish,tamari,11
+3849,Spanish,legumes,7
