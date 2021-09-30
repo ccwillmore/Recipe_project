@@ -12,3 +12,6 @@ We are using the recipe API from Spoonacular, the dataset is well organized and 
 
 ## Questions they hope to answer with the data
 Which ingredients occur the most frequently in the following cuisines: Thai, Italian, Mexican, Chinese, Greek? Which ingredients most commonly appear together within the recipes within each cuisine?
+
+## Dashboard Link
+https://public.tableau.com/app/profile/charlie.willmore/viz/FinalDashboardFinal2_16326810268670/Story1
